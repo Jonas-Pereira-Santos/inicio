@@ -1,2 +1,3 @@
-# inicio
-aprendendo mexer com git
+# INICIO
+
+## Projeto inicial sobre git e github
